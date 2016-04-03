@@ -10,6 +10,7 @@ interactive = auto
 [alias]
 br = branch
 ca = commit -a
+cm = commit -m
 cam = commit -a -m
 co = checkout
 gr = grep -n --color --extended-regexp
